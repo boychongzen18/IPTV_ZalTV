@@ -6,7 +6,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/IPTV-M3U-Playlist/master/list.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/IPTV-M3U-Playlist/master/vlc.jpg)
 
-
+Link Download VLC For Windows : https://www.videolan.org/vlc/download-windows.id.html
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
