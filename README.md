@@ -2,7 +2,10 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tampilan Streaming Tv Online Via VLC  
+# Tampilan Streaming Tv Online Via VLC Android
+![be](https://raw.githubusercontent.com/boychongzen18/IPTV-M3U-Playlist/master/andro.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/IPTV-M3U-Playlist/master/andro1.jpg)
+# Tampilan Streaming Tv Online Via VLC Windows 
 ![be](https://raw.githubusercontent.com/boychongzen18/IPTV-M3U-Playlist/master/list.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/IPTV-M3U-Playlist/master/vlc.jpg)
 
