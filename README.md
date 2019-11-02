@@ -11,6 +11,8 @@
 
 Link Download VLC For Windows : https://www.videolan.org/vlc/download-windows.id.html
 
+Link Download VLC For Android : https://apkpure.com/id/vlc-for-android/org.videolan.vlc
+
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial : 
