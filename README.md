@@ -29,4 +29,6 @@ My eMAIL      : hackingforlive@yahoo.com
 
 MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
 
+MyPatebin     : https://pastebin.com/u/boychongzen
+
 # Moto : Berbagi Itu Indah
