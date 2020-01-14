@@ -95,6 +95,16 @@ http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Rctv
 http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Btv
+http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Gpr
+http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Mi
+http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
+
 ########################################################### Channel Music ################################################### 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Elshinta
@@ -111,16 +121,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Maleo
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Btv
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Gpr
-http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Mi
-http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Tribrata
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 
