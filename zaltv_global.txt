@@ -125,15 +125,9 @@ http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Tv desa
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Gemilang
-http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Rctv
-http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Pal
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
+http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Radar
 http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
