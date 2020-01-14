@@ -80,71 +80,49 @@ http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",FIRST MOVIES
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Radar
+http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
 
-########################################################### Channel Campuran ###################################################
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHULNAoYWDohb5iPuIeXIYtE)/dm/3/x6qqja6/s/live-3.m3u8
- 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZu779il9Cj_8qtnVsCAdKs)/dm/3/x6qp375/d
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",NtvS7
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQl8Lhd5M53B93HjmohX1rc)/dm/3/x6qp6ou/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",8NEWS
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVaykDJY_3KUuyNMkfDOocg)/dm/3/x6qud17/s/live-3.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",IAM
-http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",TVku
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",TVku
 http://103.30.1.14:8080/hls/live.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",CNBC
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Elshinta
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Pop
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Karaoke
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Dangdut
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Maleo
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Rumah tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Rumah tv
 http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Tv desa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Tv desa
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Rctv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Rctv
 http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8 
+
+########################################################### Channel Music ################################################### 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Elshinta
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Pop
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Radar
-http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Karaoke
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Btv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Dangdut
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Maleo
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Btv
 http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Gpr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Gpr
 http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Mi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Mi
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Campuran",Tribrata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Music",Tribrata
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
-
-
 
 ########################################################### Channel Religi ###################################################
 
@@ -306,3 +284,21 @@ http://rr.dens.tv/h/h29/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",Da Vinci
 http://210.210.155.35/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",TV9
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHULNAoYWDohb5iPuIeXIYtE)/dm/3/x6qqja6/s/live-3.m3u8
+ 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",TV3
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZu779il9Cj_8qtnVsCAdKs)/dm/3/x6qp375/d
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",NtvS7
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQl8Lhd5M53B93HjmohX1rc)/dm/3/x6qp6ou/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",8NEWS
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVaykDJY_3KUuyNMkfDOocg)/dm/3/x6qud17/s/live-3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",IAM
+http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",CNBC
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
