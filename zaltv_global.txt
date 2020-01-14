@@ -304,8 +304,5 @@ http://rr2.dens.tv/s/s17/index2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global" ,Channel NewsAsia
 http://rr.dens.tv/h/h29/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global" ,SUPER SOCCER TV
-http://rr.dens.tv/h/h20/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",Da Vinci
 http://210.210.155.35/uq2663/h/h01/index.m3u8
