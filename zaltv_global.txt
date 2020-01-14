@@ -70,6 +70,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",FIRST MOVIES
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
 ########################################################### Channel Religi ###################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Religi",MEKKAH
@@ -106,9 +109,6 @@ http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
 ########################################################### Channel Global ################################################### 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",SONY
 http://210.210.155.35/uq2663/h/h19/index.m3u8
