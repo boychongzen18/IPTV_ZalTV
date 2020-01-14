@@ -187,6 +187,50 @@ http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Religi",SALING SAPA
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 
+
+########################################################### Channel Kids ###################################################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",ANIMAX ID
+http://45.126.83.51/dr9445/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",DISNEY JUNIOR ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",ANIPLUS ID
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",Da Vinci
+http://210.210.155.35/uq2663/h/h01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids", My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids", MY KIDS
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Kids", 50
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
+
+
 ########################################################### Channel Global ################################################### 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",SONY
