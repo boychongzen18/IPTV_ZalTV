@@ -25,6 +25,13 @@ http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",RTV
 http://210.210.155.35/session/2375c940-33a2-11ea-82b2-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local", GLOBALTV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local", TVRI
+http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Channel Local", GTV HD
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
