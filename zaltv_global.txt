@@ -242,15 +242,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",NAT
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Global",&Prive HD
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kplus_logo.png/revision/latest?cb=20170304052927" group-title="Channel Global",K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 
