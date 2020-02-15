@@ -20,7 +20,7 @@ Link Download ZalTV For Android  :https://zaltv.com
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/SvtYc1Qjnd4
 
 My Website    : https://hackingforlive.wordpress.com
 
