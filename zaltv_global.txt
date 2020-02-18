@@ -33,8 +33,8 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Channel Local", GTV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Channel Local", GTV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="Channel Local",TRANS TV HD
