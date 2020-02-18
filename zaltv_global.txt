@@ -11,22 +11,19 @@ My Facebok : https://web.facebook.com/xroot.xroot.7
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/rcti.png" group-title="Channel Local", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/mnctv.png" group-title="Channel Local",MNC
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/antv1.png" group-title="Channel Local", ANTV
-http://210.210.155.35/session/ce9a34fe-1aa3-11ea-975d-ad15b46102b5/qwr9ew/s/s102/01.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="Channel Local",SCTV
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",RTV
 http://210.210.155.35/session/2375c940-33a2-11ea-82b2-c81f66f89318/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local", GLOBALTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local", TVRI
@@ -37,8 +34,8 @@ http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="Channel Local",TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="Channel Local",TRANS TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="Channel Local",TRANS7
@@ -55,10 +52,12 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="Channel Local", TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",NETTV
+https://youtu.be/F2oDhhbDXIg
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="Channel Local",iNews TV
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boychongzen18/IPTV_ZalTV/master/xroot.png" group-title="Channel Local",Berita Satu News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
