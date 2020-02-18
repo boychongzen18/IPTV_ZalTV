@@ -35,7 +35,7 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="Channel Local",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="Channel Local",TRANS7
